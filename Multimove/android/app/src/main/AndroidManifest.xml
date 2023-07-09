@@ -22,7 +22,7 @@
      </intent>
    </queries>
    <application
-        android:label="trufi_app"
+        android:label="Multimove"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
